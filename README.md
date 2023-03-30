@@ -1,4 +1,4 @@
-<img src="img/jest-logo.png" width="40%">
+<img src="img-readme/remix-logo.png" width="40%">
 <h2>Documentação</h2>
 
 <p>Estamos felizes por você estar aqui!</p>
